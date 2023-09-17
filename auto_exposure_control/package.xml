@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>auto_exposure_control</name>
+  <version>0.0.0</version>
+  <description>The auto_exposure_control package</description>
+
+  <author>Zichao Zhang</author>
+  <maintainer email="cioffi@ifi.uzh.ch">Giovanni Cioff</maintainer>
+  <license>GPLv3</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+
+  <depend>photometric_camera</depend>
+  <depend>eigen_catkin</depend>
+  <depend>roscpp</depend>
+
+</package>

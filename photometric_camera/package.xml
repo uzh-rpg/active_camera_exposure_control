@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>photometric_camera</name>
+  <version>0.0.0</version>
+  <description>Photometric camera model.</description>
+
+  <author>Zichao Zhang</author>
+  <maintainer email="cioffi@ifi.uzh.ch">Giovanni Cioff</maintainer>
+  <license>GPLv3</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+  <depend>roslib</depend>
+  <depend>glog_catkin</depend>
+  <depend>cv_bridge</depend>
+
+</package>
